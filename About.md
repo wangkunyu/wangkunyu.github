@@ -6,7 +6,7 @@ header-img: "img/tree.jpg"
 ---
 
 <center>
-    <p><img src="http://cn-albertwu96.github.io/img/selfWu.JPG" align="center"></p>
+    <p><img src="http://wangkunyu.github.io/img/selfWu.JPG" align="center"></p>
 </center>
 
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
@@ -20,7 +20,6 @@ header-img: "img/tree.jpg"
         写写代码，看看书；画画漫画，拍拍照
         争取做一个有趣的人~
     </blockquote>
-
     <p>
     自己想出解答，和判断别人说的解答是否正确，何者比较简单？</p>
     <p>
