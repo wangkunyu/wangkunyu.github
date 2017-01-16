@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Zang哥教你写Web(一)：如何设计一个简单的静态网页"
+title:      "Chang哥教你写Web(一)：如何设计一个简单的静态网页"
 subtitle:   "" 
 date:       2016-08-22 14:35:35 +0200
 author:     "AlbertWu"
@@ -16,7 +16,7 @@ tags:
 
 谈到钢炼，想必是很多热血青年初中时候追的番之一！然而Zang哥我却不得不承认初中时候天天学chui习bi，错过了这么一部主角有热血，配角有尊严，剧情无尿点，boss无解肥的热血番剧。[[老司机带你上车]](http://www.bilibili.com/video/av5563910/)
 
-扯远了，这篇博客主要是记录一下自己写[网页](http://codepen.io/CN-AlbertWu96/full/EyrKmG/)的痛苦历程，也为了归纳一下自己的学习心得吧。
+[扯远了](https://wangkunyu.github.io/documents/test.pdf) 这篇博客主要是记录一下自己写[网页](http://codepen.io/CN-AlbertWu96/full/EyrKmG/)的痛苦历程，也为了归纳一下自己的学习心得吧。
 
 首先无论写什么网站都有其**固定格式**
 
