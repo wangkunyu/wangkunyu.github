@@ -6,7 +6,7 @@ header-img: "img/tree.jpg"
 ---
 
 <center>
-    <p><img src="http://wangkunyu.github.io/img/selfWang.JPG" align="center"></p>
+    <p><img src="http://wangkunyu.github.io/img/selfWu.JPG" align="center"></p>
 </center>
 
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
